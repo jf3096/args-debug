@@ -1,4 +1,4 @@
-# Exception Html Template
+# Args Debug
 
 Simple used for browser or Node.js debug purpose. It simply logs all arguments.
 
