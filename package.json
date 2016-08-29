@@ -1,0 +1,26 @@
+{
+  "name": "args-debug",
+  "version": "1.0.0",
+  "description": "Simple used for browser or Node.js debug purpose. It simply logs all arguments.",
+  "main": "index.js",
+  "typescript": {
+    "definition": "index.d.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jf3096/args-debug.git"
+  },
+  "keywords": [
+    "debug",
+    "log",
+    "console",
+    "console.log",
+    "debugger"
+  ],
+  "author": "She Ailun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jf3096/args-debug/issues"
+  },
+  "homepage": "https://github.com/jf3096/args-debug#readme"
+}
